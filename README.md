@@ -2,6 +2,10 @@
 
 ## Developer Portfolio In NEXTJS
 
+### This is a clone of https://github.com/aryanvikash/aryanvikash.com 
+
+    Developer Aryanvikash ❤️ 
+   
 ____
 ### Host it on netlify or vercel
 
@@ -16,6 +20,7 @@ ____
     heroText: "I’m AryanVikash and I’m Just a nub Developer!",
     facebookUsername: "Facebook Username",
     instaUsername: "Instagram Username",
+
 ### Run it on local
     npm install
     npm run dev
