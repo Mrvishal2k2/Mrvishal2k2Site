@@ -1,11 +1,11 @@
 
 export default function Languages() {
   return (
-
+    <div className="techstack">
       {/* Programming Languages */}
       <div className="lang">
         <h1>
-          <span className="badge badge-danger">Programming Languages</span>
+          <span className="badge badge-danger">SkiLLs</span>
         </h1>
       </div>
       <div className="grid-flex">
