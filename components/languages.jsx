@@ -10,7 +10,6 @@ export default function Languages() {
 
       <div className="grid-flex">
         <img src="https://img.icons8.com/fluent/240/000000/android-os.png" />
-        <img src="https://img.icons8.com/color/96/000000/api-settings.png" />
       </div>
 
       {/* Programming Languages */}
@@ -20,12 +19,7 @@ export default function Languages() {
         </h1>
       </div>
       <div className="grid-flex">
-        <img src="https://img.icons8.com/color/96/000000/c-programming.png" />
-        <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" />
         <img src="https://img.icons8.com/color/480/000000/python.png" />
-        <img src="https://img.icons8.com/color/480/000000/dart.png" />
-        <img src="https://img.icons8.com/color/480/000000/javascript.png" />
-        <img src="https://img.icons8.com/color/480/000000/kotlin.png" />
       </div>
 
       {/*  Frameworks */}
@@ -33,11 +27,6 @@ export default function Languages() {
         <h1>
           <span className="badge badge-danger">Frameworks</span>
         </h1>
-      </div>
-
-      <div className="grid-flex">
-        <img src="https://img.icons8.com/color/96/000000/flutter.png" />
-        <img src="https://img.icons8.com/plasticine/400/000000/react.png" />
       </div>
 
       <div className="lang">
