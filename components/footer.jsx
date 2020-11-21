@@ -67,7 +67,7 @@ export default function footer() {
               alt="love"
             />
           </i>{" "}
-          By Aryan Vikash
+          By MrVishaL
         </div>
       </footer>
     </div>
