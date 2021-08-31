@@ -6,18 +6,6 @@ export default function footer() {
     <div>
       <footer className="page-footer font-small blue ">
         <ul className="list-unstyled list-inline text-center">
-          <li className="list-inline-item">
-            <a
-              href={"https://fb.me/" + config.facebookUsername}
-              className="btn-floating btn-fb mx-1"
-            >
-              <img
-                style={{ width: "35px", height: "35px" }}
-                src={"https://img.icons8.com/doodle/48/000000/facebook-new.png"}
-                alt="github"
-              />
-            </a>
-          </li>
 
           <li className="list-inline-item">
             <a
@@ -58,17 +46,6 @@ export default function footer() {
             </a>
           </li>
         </ul>
-        <div className="footer-copyright text-center py-3 text-light">
-          Made With {" "}
-          <i>
-            <img
-              style={{ width: "30px", height: "30px" }}
-              src="https://img.icons8.com/emoji/48/000000/red-heart.png"
-              alt="love"
-            />
-          </i>{" "}
-          By MrVishaL
-        </div>
       </footer>
     </div>
   );
