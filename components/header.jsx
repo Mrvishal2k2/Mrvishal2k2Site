@@ -21,9 +21,9 @@ export default function Customhead() {
           </a>
         </Link>
 
-        <Link href="/projects" as="/projects">
-          <a className={"btn btn-outline-light"}>Projects</a>
-        </Link>
+        //<Link href="/projects" as="/projects">
+        // <a className={"btn btn-outline-light"}>Projects</a>
+       // </Link>
       </nav>
     </div>
   );
