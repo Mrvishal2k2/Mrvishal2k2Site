@@ -27,8 +27,8 @@ const siteName = "Mrvishal2k2"
         
 
         {/* Open Graph */}
-        <meta property="og:url" content="https://aryanvikash.com" key="ogurl" />
-        <meta property="og:image" content="https://github.com/aryanvikash.png" key="ogimage" />
+        <meta property="og:url" content="https://mrvishal2k2.me" key="ogurl" />
+        <meta property="og:image" content="https://GitHub.com/mrvishal2k2.png" key="ogimage" />
         <meta property="og:site_name" content={siteName} key="ogsitename" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta property="og:description" content={description} key="ogdesc" />
