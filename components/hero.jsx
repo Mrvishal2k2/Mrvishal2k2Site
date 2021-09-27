@@ -26,17 +26,18 @@ export default function Hero() {
 
       <button
         className={"btn btn-primary btn-md active mt-4"}
-        onClick={() => AlertIt()}
-      >
-        Telegram me
-      </button>
-      <p></p>
-      <button
-        className={"btn btn-primary btn-md active mt-4"}
         onClick={() => BlogAlertIt()}
       >
         Blog
       </button>
+      <p></p>
+      <button
+        className={"btn btn-primary btn-md active mt-4"}
+        onClick={() => AlertIt()}
+      >
+        Telegram me
+      </button>
+
 
     </div>
   );
