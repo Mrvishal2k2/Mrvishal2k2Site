@@ -15,7 +15,7 @@ export default function Customhead() {
               width="30"
               height="30"
               className="d-inline-block align-top"
-              alt="aryanvikash"
+              alt="mrvishal2k2"
             />
             <kbd id="username">{config.websiteName}</kbd>
           </a>
