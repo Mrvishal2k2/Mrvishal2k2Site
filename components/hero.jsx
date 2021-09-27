@@ -7,6 +7,10 @@ export default function Hero() {
     if (window.confirm("open Telegram?"))
       window.location = `https://t.me/${config.tgUsername}`;
   }
+  function BlogAlertIt() {
+    if (window.confirm("Check Blog?"))
+      window.location = `https://MrProGeeky.com`;
+  }
 
   return (
     <div className={"container mt-5"}>
@@ -27,6 +31,14 @@ export default function Hero() {
       >
         Telegram me
       </button>
+
+      <button
+        className={"btn btn-primary btn-md active mt-4"}
+        onClick={() => BlogAlertIt()}
+      >
+        Blog
+      </button>
+
     </div>
   );
 }
