@@ -9,6 +9,7 @@ export default function Languages() {
         </h1>
       </div>
       <div className="grid-flex">
+        <img src="https://img.icons8.com/color/96/000000/c-programming.png" />
         <img src="https://img.icons8.com/color/480/000000/python.png" />
       </div>
 
@@ -20,6 +21,7 @@ export default function Languages() {
       </div>
 
       <div className="grid-flex">
+        <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" />
         <img src="https://img.icons8.com/color/480/000000/intellij-idea.png" />
         <img src="https://img.icons8.com/color/144/000000/git.png" />
         <img src="https://img.icons8.com/fluent/96/000000/github.png" />
