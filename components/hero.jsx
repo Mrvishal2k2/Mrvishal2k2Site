@@ -30,7 +30,7 @@ export default function Hero() {
       >
         Blog
       </button>
-      <br>
+      <p></p>
       <button
         className={"btn btn-primary btn-md active mt-4"}
         onClick={() => AlertIt()}
