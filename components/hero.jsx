@@ -30,14 +30,13 @@ export default function Hero() {
       >
         Blog
       </button>
-      <p></p>
+      <br>
       <button
         className={"btn btn-primary btn-md active mt-4"}
         onClick={() => AlertIt()}
       >
         Telegram me
       </button>
-
 
     </div>
   );
