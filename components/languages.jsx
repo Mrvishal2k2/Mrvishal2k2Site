@@ -10,7 +10,8 @@ export default function Languages() {
       </div>
       <div className="grid-flex">
         <img src="https://img.icons8.com/color/480/000000/python.png" />
-        <img src="https://img.icons8.com/color/96/000000/c-programming.png" />
+        <img src="https://img.icons8.com/color/480/000000/c-programming.png" />
+        <img src="https://img.icons8.com/color/480/000000/java.png" />
       </div>
 
       {/*  Frameworks */}
