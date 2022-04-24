@@ -22,7 +22,7 @@ return null;
   return (
     <div className="mt-5" id="projects">
       <center>
-        <h3 className="text-light">projects</h3>
+        <h3 className="text-light">Soon<br>Checkout at github</h3>
       </center>
       <div className="container mt-4">
         <div className="row">{row}</div>
