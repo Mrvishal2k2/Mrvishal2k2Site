@@ -23,7 +23,7 @@ const siteName = "Mrvishal2k2"
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta name="twitter:card" content="summary_large_image" key="twcard" />
         <meta property="og:description" content={description} key="ogdesc" />
-        <meta name="twitter:creator" content="@_aryanvikash" key="twhandle" />
+        <meta name="twitter:creator" content="@mrvishal2k2" key="twhandle" />
         
 
         {/* Open Graph */}
