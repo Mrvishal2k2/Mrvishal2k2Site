@@ -14,7 +14,7 @@ export default function footer() {
             >
               <img
                 style={{ width: "35px", height: "35px" }}
-                src="https://img.icons8.com/ios/50/000000/linkedin-circled--v1.png"
+                src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"
                 alt="linkedin"
               />
             </a>
