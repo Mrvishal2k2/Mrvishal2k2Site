@@ -7,9 +7,6 @@ export default function Hero() {
     if (window.confirm("open Telegram?"))
       window.location = `https://t.me/${config.tgUsername}`;
   }
-  function BlogAlertIt() {
-    window.open("https://www.mrprogeeky.com", "_blank"); 
-  }
 
   return (
     <div className={"container mt-5"}>
@@ -24,13 +21,7 @@ export default function Hero() {
         </div>
       </h3>
 
-      <button
-        className={"btn btn-primary btn-md active mt-4"}
-        onClick={() => BlogAlertIt()}
-      >
-        Blog
-      </button>
-      <p></p>
+      </br>
       <button
         className={"btn btn-primary btn-md active mt-4"}
         onClick={() => AlertIt()}
