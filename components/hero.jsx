@@ -21,7 +21,6 @@ export default function Hero() {
         </div>
       </h3>
 
-      </br>
       <button
         className={"btn btn-primary btn-md active mt-4"}
         onClick={() => AlertIt()}
