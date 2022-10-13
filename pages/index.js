@@ -24,6 +24,9 @@ const siteName = "Mrvishal2k2"
         <meta name="twitter:card" content="summary_large_image" key="twcard" />
         <meta property="og:description" content={description} key="ogdesc" />
         <meta name="twitter:creator" content="@mrvishal2k2" key="twhandle" />
+       
+        <meta name="keywords" content="Vishal, Developer">
+        <meta name="author" content="Vishal">
         
 
         {/* Open Graph */}
